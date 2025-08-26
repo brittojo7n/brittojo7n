@@ -18,7 +18,12 @@
 </p>
 <p align="center">
   <a href="https://britto.is-a.dev/" target="_blank">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=brittojo7n&theme=gruvbox&hide_border=true" width="450" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://britto.is-a.dev/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittojo7n&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" width="450"/>
   </a>
 </p>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=brittojo7n&theme=gruvbox&hide_border=true" width="420" />
+
