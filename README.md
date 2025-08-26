@@ -21,8 +21,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittojo7n&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" width="450"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://britto.is-a.dev/" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=brittojo7n&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
-  </a>
-</p>
