@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Stats-282828?style=for-the-badge&logo=github&logoColor=ebdbb2" alt="GitHub Stats"/>
+  <a href="https://britto.is-a.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Stats-282828?style=for-the-badge&logo=github&logoColor=ebdbb2" alt="GitHub Stats"/>
+  </a>
 </p>
 <p align="center">
   <a href="https://britto.is-a.dev/" target="_blank">
