@@ -28,4 +28,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittojo7n&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" width="450"/>
   </a>
 </p>
-
