@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=600&size=24&pause=2000&color=3BF7C4&center=true&vCenter=true&lines=Welcome+to+my+Github+Page" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
   <a href="https://britto.is-a.dev/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Stats-282828?style=for-the-badge&logo=github&logoColor=ebdbb2" alt="GitHub Stats"/>
   </a>
