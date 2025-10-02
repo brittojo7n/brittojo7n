@@ -15,7 +15,7 @@
 </p>
 <p align="center">
   <a href="https://britto.is-a.dev/" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/brittojo7n/brittojo7n?style=for-the-badge&logo=git&logoColor=white&color=8bbb77&labelColor=282828" alt="Last Commit"/>
+    <img src="https://img.shields.io/github/last-commit/brittojo7n/brittojo7n?style=for-the-badge&logo=git&color=8bbb77&labelColor=282828" alt="Last Commit"/>
   </a>
 </p>
 <p align="center">
