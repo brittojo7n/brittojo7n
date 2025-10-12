@@ -5,12 +5,12 @@
 </p>
 <p align="center"> 
   <a href="https://britto.is-a.dev/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=brittojo7n&style=pixel" alt="sinnisterly" /> 
+    <img src="https://komarev.com/ghpvc/?username=brittojo7n&color=1d8c8c&style=for-the-badge&label=Viewed+By&abbreviated=true" alt="Profile Views" /> 
   </a>
 </p>
 <p align="center">
   <a href="https://britto.is-a.dev/" target="_blank">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brittojo7n&theme=gruvbox" alt="Profile Details with Last Seen" width="450"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brittojo7n&theme=gruvbox" alt="Profile Details" width="450"/>
   </a>
 </p>
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 <p align="center">
   <a href="https://britto.is-a.dev/" target="_blank">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=brittojo7n&theme=gruvbox&hide_border=true" width="450" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=brittojo7n&theme=gruvbox&hide_border=true" alt="Streak Card" width="450" />
   </a>
 </p>
 <p align="center">
