@@ -3,6 +3,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=600&size=28&duration=4000&pause=1000&color=3BF7C4&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Britto!;Welcome+to+my+GitHub+Page;Below+are+my+GitHub+Stats;Thank+you+for+dropping+by+%3A%5D" alt="Typing SVG" />
   </a>
 </p>
+<p align="center"> 
+  <a href="https://britto.is-a.dev/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=brittojo7n&style=pixel" alt="sinnisterly" /> 
+  </a>
+</p>
 <p align="center">
   <a href="https://britto.is-a.dev/" target="_blank">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brittojo7n&theme=gruvbox" alt="Profile Details with Last Seen" width="450"/>
