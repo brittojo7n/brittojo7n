@@ -10,21 +10,21 @@
 </p>
 <p align="center">
   <a href="https://britto.is-a.dev/" target="_blank">
+    <img src="https://gh-readme-profile.vercel.app/api?username=brittojo7n&theme=gruvbox&title=Stats&hide=issues&border_radius=4.5&photo_resize=150&photo_quality=100&hide_border=false&hide_stroke=false&disabled_animations=false" alt="" width="450"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://britto.is-a.dev/" target="_blank">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brittojo7n&theme=gruvbox" alt="" width="450"/>
   </a>
 </p>
 <p align="center">
   <a href="https://britto.is-a.dev/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=brittojo7n&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true" alt="" width="450"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=brittojo7n&theme=gruvbox" alt="" width="450" />
   </a>
 </p>
 <p align="center">
   <a href="https://britto.is-a.dev/" target="_blank">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=brittojo7n&theme=gruvbox&hide_border=true" alt="" width="450" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://britto.is-a.dev/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittojo7n&layout=compact&theme=gruvbox&hide_border=true" alt="" width="450"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=brittojo7n&layout=compact&theme=gruvbox" alt="" width="450"/>
   </a>
 </p>
