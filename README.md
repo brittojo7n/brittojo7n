@@ -25,48 +25,35 @@
 <!-- CONTRIBUTION GRAPH -->
 
 <p align="center">
-  <a href="https://britto.is-a.dev/" target="_blank">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brittojo7n&theme=gruvbox&animation=load&duration=1.5&name=brittojo7n&border_color=3BF7C4"
-      alt="GitHub Contribution Graph"
-      width="900"
-    />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brittojo7n&theme=gruvbox&animation=load&duration=1.5&name=brittojo7n&border_color=3BF7C4"
+    alt="GitHub Contribution Graph"
+    width="450"
+  />
 </p>
 
 <!-- STREAK -->
 
 <p align="center">
-  <a href="https://britto.is-a.dev/" target="_blank">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api/streak?username=brittojo7n&theme=gruvbox"
-      alt="GitHub Contribution Streak"
-      width="450"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=brittojo7n&theme=gruvbox"
+    alt="GitHub Contribution Streak"
+    width="450"
+  />
 </p>
 
-<!-- REPOSITORIES PER LANGUAGE + PRODUCTIVE TIME -->
+<!-- LANGUAGES & COMMIT GRAPH -->
 
-<table align="center" border="0" cellpadding="6" cellspacing="0">
-  <tr>
-    <td align="center">
-      <a href="https://britto.is-a.dev/" target="_blank">
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brittojo7n&theme=gruvbox&animation=load&duration=1.5&border_color=3BF7C4"
-          alt="Repositories Per Language"
-          width="450"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://britto.is-a.dev/" target="_blank">
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brittojo7n&theme=gruvbox&animation=load&duration=1.5&utcOffset=5.5&border_color=3BF7C4"
-          alt="Productive Time"
-          width="450"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brittojo7n&theme=gruvbox&animation=load&duration=1.5&border_color=3BF7C4"
+    alt="Repositories Per Language"
+    width="225"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brittojo7n&theme=gruvbox&animation=load&duration=1.5&utcOffset=5.5&border_color=3BF7C4"
+    alt="Productive Time"
+    width="225"
+  />
+</p>
